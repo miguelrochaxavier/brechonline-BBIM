@@ -88,6 +88,12 @@ section {
     display: flex;
 }
 
+.carousel-preco {
+    position: relative;
+    top: 250px;
+    right: 320px;
+}
+
 .carousel {
     display: flex;
     overflow: hidden;

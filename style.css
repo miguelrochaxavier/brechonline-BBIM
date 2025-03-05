@@ -94,3 +94,8 @@ section {
     width: 100%;
     transition: transform 0.5s ease-in-out;
 }
+
+.texto-carousel h2 {
+    color: black;
+    font-size: 22px;
+}

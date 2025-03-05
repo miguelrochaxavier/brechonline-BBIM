@@ -48,3 +48,30 @@ section {
     bottom: 0;
     width: 100%;
 }
+section {
+    margin: 32px 0;
+    padding: 32px;
+    background-color: rgb(208, 196, 196);
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.5);
+}
+.conteudo {
+    padding: 16px;
+    border-bottom: 2px solid #eee;
+    margin-bottom: 16px;
+
+}
+
+.imagem{
+    width: 100%;
+    max-width: 400px;
+    margin: 16px auto;
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.5);
+}
+.imagem img{
+    width: 100%;
+    height: auto;
+    display: block;
+}

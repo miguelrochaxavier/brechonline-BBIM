@@ -2,22 +2,49 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: Arial, sans-serif;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+body{
+    line-height: 1.6;
+    background-color: rgb(71, 97, 120);
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 body {
     line-height: 1.6;
-    background-color: #f4f4f4;
 }
 
 .navbar {
-    background-color: #333;
-    padding: 1rem;
+    background-color: rgb(49, 48, 48);
+    padding: 16px;
 }
 
 .navbar ul {
     list-style: none;
-    display: flex;
-    justify-content: center;
-    gap: 2rem;
+    display: flex; 
+    justify-content: center;  
+    gap: 120px; 
+}
+
+section {
+    margin: 32px 0;
+    padding: 32px;
+    background-color: rgb(242, 238, 238);
+    border-radius: 8px;
+}
+
+.rodape {
+    background-color: rgb(49, 48, 48);
+    color: white;
+    text-align: center;
+    padding: 16px;
+    margin-top: 32px;
+    position: relative;
+    bottom: 0;
+    width: 100%;
 }

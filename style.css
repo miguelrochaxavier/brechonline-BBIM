@@ -15,9 +15,6 @@ body{
     font-family: 'Times New Roman', Times, serif;
 }
 
-body {
-    line-height: 1.6;
-}
 
 .navbar {
     background-color: rgb(212, 212, 224);
@@ -29,13 +26,6 @@ body {
     display: flex; 
     justify-content: center;  
     gap: 120px; 
-}
-
-section {
-    margin: 32px 0;
-    padding: 32px;
-    background-color: rgb(242, 238, 238);
-    border-radius: 8px;
 }
 
 .rodape {

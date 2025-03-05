@@ -63,6 +63,12 @@ section {
 
 }
 
+.container {
+    display: flex;
+    padding: 16px;
+    gap: 120px;
+}
+
 .imagem{
     width: 100%;
     max-width: 400px;

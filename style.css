@@ -74,5 +74,16 @@ section {
 .imagem img{
     width: 100%;
     height: auto;
-    display: block;
+    display: flex;
+}
+
+.carousel {
+    display: flex;
+    overflow: hidden;
+    width: 300px;
+}
+
+.carousel img {
+    width: 100%;
+    transition: transform 0.5s ease-in-out;
 }

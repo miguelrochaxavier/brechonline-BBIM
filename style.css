@@ -69,6 +69,11 @@ section {
     gap: 120px;
 }
 
+.container2 {
+    display: flex;
+    gap: 10px; 
+}
+
 .imagem{
     width: 100%;
     max-width: 400px;

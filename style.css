@@ -85,15 +85,15 @@ section {
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.5);
 }
 .imagem img{
-    width: 100%;
+    width: 300%;
     height: auto;
     display: flex;
 }
 
 .carousel-preco {
     position: relative;
-    top:300px;
-    right: 360px;
+    top: 10px;
+    right: 70px;
     text-align: center;
 }
 

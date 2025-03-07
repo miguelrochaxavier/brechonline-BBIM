@@ -147,3 +147,9 @@ section {
     width: 50px;
     height: 50px;
 }
+
+.carousel-preco button{
+    color: #76574f;
+    border-color: rgb(151, 151, 194);
+    border-radius: 5px;
+}

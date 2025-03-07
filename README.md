@@ -8,6 +8,11 @@
     <img src="/img-readme/print1.png" alt="#">
 </p>
 
+<p aling="center">
+    <img src="/img-readme/print1.png" alt="#">
+</p>
+
+
 ## 🚀 Tecnologias
 
 <p align="left"> 

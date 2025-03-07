@@ -90,8 +90,9 @@ section {
 
 .carousel-preco {
     position: relative;
-    top: 250px;
-    right: 320px;
+    top:300px;
+    right: 360px;
+    text-align: center;
 }
 
 .carousel {

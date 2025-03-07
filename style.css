@@ -8,7 +8,7 @@
 
 body{
     line-height: 1.6;
-    background-color:#e6bfb5
+    background-color:#e6bfb5 ;
     padding: 0;
     margin: 0;
     box-sizing: border-box;
@@ -57,7 +57,7 @@ section {
 }
 .conteudo {
     padding: 16px;
-    border-bottom: 2px solid #a48881
+    border-bottom: 2px solid #a48881;
     margin-bottom: 16px;
 
 }

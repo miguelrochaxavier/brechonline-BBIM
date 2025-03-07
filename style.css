@@ -72,6 +72,7 @@ section {
 .container2 {
     display: flex;
     gap: 10px; 
+    justify-content: center; 
 }
 
 .imagem{

@@ -101,6 +101,7 @@ section {
     display: flex;
     overflow: hidden;
     width: 300px;
+    border-radius: 7px;
     
 }
 

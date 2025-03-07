@@ -153,3 +153,7 @@ section {
     border-color: rgb(151, 151, 194);
     border-radius: 5px;
 }
+
+.carousel-preco button:hover {
+    cursor: pointer;
+}

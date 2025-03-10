@@ -183,7 +183,7 @@ section {
     display: flex;
     padding: 10px;
     align-items: center;
-    background-color: black;
+    background-color: #4f4f4f;
     opacity: 0.8;
     border-radius: 10px;
 }
